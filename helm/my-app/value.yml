@@ -1,0 +1,4 @@
+image:
+  repository: youracrname.azurecr.io/your-image-name
+  tag: latest  # to be overridden by Jenkins
+replicaCount: 1
